@@ -282,3 +282,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#run python rag.py index-folder --folder ./folder --index-dir index.faiss thay bằng mục tên folder của mình
+#run python rag.py ask --index-dir index.faiss --q "Vì sao gọi là bán dẫn tinh khiết dẫn kém?" để hỏi
+
